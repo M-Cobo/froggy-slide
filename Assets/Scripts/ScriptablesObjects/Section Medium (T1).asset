@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb5b83f99e3342f1a00c188bc2e3a97, type: 3}
+  m_Name: Section Medium (T1)
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8283135708994545121, guid: d520e0c27990f4a42b8970d33525ab7d, type: 3}
+  startSections:
+  - {fileID: 7077022966006028515, guid: 576a8954e91c647e8a1523d3069cc3c6, type: 3}
+  compaticleSections:
+  - {fileID: 11400000, guid: 69e103141e3b444b0a9ea6aad535be54, type: 2}
+  - {fileID: 11400000, guid: 432ae810237f744239c9364e45975782, type: 2}
+  finalSections:
+  - {fileID: 2170493964558868864, guid: 1ea2fc091190d4539acb3d1536b4efb2, type: 3}
+  - {fileID: 7077022966006028515, guid: b49e3ea0517684a0ca6c1c66f8bf05ff, type: 3}
